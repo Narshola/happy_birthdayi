@@ -1,0 +1,22 @@
+body {
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(31, 174, 179);
+}
+
+main img {
+    margin: 20px;
+    width: 350px;
+    height: 350px;
+    border: 10px dotted blueviolet;
+}
+
+p img {
+    width: 60px;
+    height: 60px;
+}
+
+h1 {
+    color: rgb(255, 166, 0);
+}
